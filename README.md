@@ -16,7 +16,7 @@ You bring the curiosity, I’ll bring the insights 📊💻
 
 ## 🌐 Socials :
 
-[![LinkedIn](www.linkedin.com/in/sonika-kaswan-72170a2a6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sonika-kaswan](https://www.linkedin.com/in/sonika-kaswan-72170a2a6?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 
 ---
