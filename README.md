@@ -3,9 +3,9 @@ Welcome to my little corner of GitHub!
 
 I’m passionate about growing in my career, learning new tech skills, and exploring the world of **data analytics**. Here, you'll find:
 
-Projects I’m building or contributing to  
-Things I’ve learned while working with data and coding  
-My journey of learning Python, SQL, and data visualization  
+-> Projects I’m building or contributing to  
+-> Things I’ve learned while working with data and coding  
+-> My journey of learning Python, SQL, and data visualization  
 
 Whether you're here to explore projects, learn something new, or just see how someone else is figuring things out, you’re in the right place!
 
