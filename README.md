@@ -3,25 +3,25 @@ Welcome to my little corner of GitHub!
 
 I’m passionate about growing in my career, learning new tech skills, and exploring the world of **data analytics**. Here, you'll find:
 
-🛠️ Projects I’m building or contributing to  
-📚 Things I’ve learned while working with data and coding  
-🌱 My journey of learning Python, SQL, and data visualization  
+Projects I’m building or contributing to  
+Things I’ve learned while working with data and coding  
+My journey of learning Python, SQL, and data visualization  
 
-Whether you're here to explore projects, learn something new, or just see how someone else is figuring things out—you’re in the right place! 🫶
+Whether you're here to explore projects, learn something new, or just see how someone else is figuring things out, you’re in the right place!
 
 Let’s connect, learn, and grow together—one repo at a time.  
-You bring the curiosity, I’ll bring the insights 📊💻
+You bring the curiosity, I’ll bring the insights
 
 ---
 
-## 🌐 Socials :
+## Socials :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sonika-kaswan](https://www.linkedin.com/in/sonika-kaswan-72170a2a6?utm_source=share_via&utm_content=profile&utm_medium=member_android))
 
 
 ---
 
-## 💻 Tech Stack :
+## Tech Stack :
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
