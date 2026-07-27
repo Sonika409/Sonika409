@@ -1,6 +1,5 @@
-### Sonika Kaswan — Data Analyst
 
-<p align="left">
+<p align="centre">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=false&vCenter=true&width=520&lines=Sonika+Kaswan;Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
 </p>
 
@@ -64,6 +63,7 @@ Full write-ups on my [portfolio](#).
 | 🥇 | HackerRank SQL — Gold Badge |
 | 📊 | Power BI Certification |
 | 🧮 | SQL Micro-Course |
+| 🎓 | AlgoUniversity Tech Fellowship (ATF) |
 | 🏢 | Data Science Traineeship — TCA, Gurgaon |
 | 🎖️ | NCC Under Officer · Training & Placement Office Member |
 | 🎤 | President, Toastmasters Club — Event Anchor |
@@ -74,14 +74,21 @@ Full write-ups on my [portfolio](#).
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Sonika409&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api?username=Sonika409&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonika409&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Sonika409/count.svg" alt="Profile Views" />
+</p>
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
 ---
 
 <p align="center">
