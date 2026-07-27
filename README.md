@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Turning+data+into+decisions;5%2B+dashboards+%7C+15%2B+datasets+analysed;HackerRank+SQL+Gold+Badge" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sonika409&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ### 🌸 About Me
@@ -38,29 +42,12 @@ A bit about my work so far — 5+ dashboards built, 15+ datasets analysed, and a
 
 ---
 
-### 💼 Featured Projects
-
-**🔹 Aadhaar Enrolment Analytics — UIDAI Data Hackathon 2026**
-`Excel` `Python` `Power BI`
-Analysed enrolment data across 36 states/UTs and 3 age groups. Found the 0–5 age group dominates enrolments, with regional exceptions in Bihar, Manipur, Sikkim, Meghalaya, and Mizoram — insights applicable to deployment and campaign planning.
-
-**🔹 Subscription Platform Profitability Analysis**
-`Python` `Pandas` `Matplotlib`
-Investigated a profit decline across 4 datasets and found the real driver was a retention crisis, not rising costs — 33% of users were one-time buyers, with none transacting more than 3 times.
-
-**🔹 Hospital ER Analysis**
-`Excel`
-Built an interactive dashboard tracking admissions, wait times, and satisfaction — surfacing that 61% of patients faced delays, with an average wait of 35.5 minutes.
-
----
-
 ### 🏆 Achievements & Certifications
 
 - 🥇 HackerRank SQL — Gold Badge
-- 🎓 AlgoUniversity Tech Fellowship (ATF)
 - 📊 Data Science Trainee — TCA, Gurgaon
 - 📜 SQL Micro-Course & Power BI Certifications
-- 🎖️ NCC Under Officer & Member, Training and Placement Office
+- 🎖️ NCC Under Officer & Member Training and Placement Office
 - 🎤 President, Toastmasters Club — Event Anchor & Public Speaker
 - ✅ Cleared NDA (National Defence Academy) Written Exam
 
@@ -69,12 +56,12 @@ Built an interactive dashboard tracking admissions, wait times, and satisfaction
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sonika409&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Sonika409&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sonika409&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
