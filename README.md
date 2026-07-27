@@ -114,48 +114,41 @@ I enjoy transforming raw datasets into meaningful insights using **SQL, Python, 
 
 ---
 
-# 📊 Contribution Activity
+## 🎯 Current Focus
 
-<p align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sonika409&theme=tokyo-night&hide_border=true"/>
+### 📚 Learning
 
-</p>
+- Advanced SQL
+- Machine Learning
+- Statistics
+- Power BI
+- Data Storytelling
 
----
+</td>
 
-# 💻 Currently Exploring
+<td width="50%">
 
-```python
-class SonikaKaswan:
+### 💡 Interested In
 
-    role = "Aspiring Data Analyst"
+- Business Intelligence
+- Data Visualization
+- Exploratory Data Analysis
+- Predictive Analytics
+- Data Engineering
 
-    currently_learning = [
-        "Advanced SQL",
-        "Machine Learning",
-        "Statistics",
-        "Power BI",
-        "Data Storytelling"
-    ]
-
-    interests = [
-        "Business Intelligence",
-        "Data Visualization",
-        "Exploratory Data Analysis",
-        "Predictive Analytics"
-    ]
-
-    motto = "Turning data into meaningful business decisions."
-```
+</td>
+</tr>
+</table>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-
-> ⚠️ *This animation works after enabling a GitHub Actions workflow.*
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
@@ -165,7 +158,7 @@ class SonikaKaswan:
 
 # 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/sonika-kaswan-72170a2a6">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
@@ -187,11 +180,11 @@ class SonikaKaswan:
 
 ---
 
-# 👀 Visitors
+## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sonika409&label=Profile%20Views&color=4FC3F7&style=for-the-badge"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sonika409&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
