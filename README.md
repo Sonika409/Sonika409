@@ -1,46 +1,47 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Sonika+Kaswan;Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&lines=Sonika+Kaswan;Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG"/>
 </p>
 
 <p align="center">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+  <a href="YOUR_HACKERRANK_LINK">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
 
-<a href="YOUR_HACKERRANK_LINK">
-<img src="https://img.shields.io/badge/HackerRank-SQL_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/sonika-kaswan-72170a2a6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/sonika-kaswan-72170a2a6">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# About Me
+# 📊 Data Journey
 
-I'm **Sonika Kaswan**, a Computer Science student passionate about solving business problems through data.
+Hi! I'm **Sonika Kaswan**, a Computer Science student passionate about solving real-world business problems through data.
 
-I enjoy exploring datasets, discovering patterns, and creating dashboards that help transform information into meaningful decisions.
+I enjoy transforming raw datasets into meaningful insights using **SQL, Python, Excel, and Power BI**. Whether it's uncovering hidden trends, building interactive dashboards, or performing exploratory analysis, I love turning numbers into stories that drive better decisions.
 
-- 📊 Building real-world Data Analytics projects
-- 🐍 Working with SQL, Python, Excel & Power BI
-- 📈 Interested in Business Intelligence & Data Storytelling
-- 🌱 Currently learning Machine Learning & Advanced SQL
-- 💼 Open to Data Analyst Internship opportunities
+✨ **Current Focus**
+
+- 📊 Building real-world analytics projects
+- 🐍 Python for Data Analysis
+- 🗄️ Advanced SQL
+- 📈 Power BI Dashboards
+- 🤖 Machine Learning Fundamentals
+- 💼 Looking for Data Analyst Internship opportunities
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
 
@@ -48,13 +49,13 @@ I enjoy exploring datasets, discovering patterns, and creating dashboards that h
 
 </p>
 
-### Data Analytics
+### 📊 Data Analytics
 
 <p>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -70,61 +71,127 @@ I enjoy exploring datasets, discovering patterns, and creating dashboards that h
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-### 🚀 Aadhaar Enrollment Analytics
-
-Power BI dashboard analysing enrolment trends across India with demographic insights and interactive visualisations.
-
----
-
-### 📈 Subscription Platform Profitability Analysis
-
-Customer behaviour analysis using Python that uncovered retention issues affecting profitability.
+| 🚀 Project | 🛠 Tech Stack | 📌 Highlights |
+|------------|--------------|---------------|
+| **Aadhaar Enrollment Analytics** | Power BI, Excel | Interactive dashboard analysing state-wise and age-wise enrolment trends across India. |
+| **Chicago Transportation Analytics** | Python, SQL | Analysed trip patterns and operational insights using Chicago TNP dataset. |
+| **Subscription Platform Profitability** | Python, Pandas | Identified retention issues and profitability decline through customer behaviour analysis. |
+| **Hospital Emergency Room Dashboard** | Excel | KPI dashboard tracking waiting time, patient flow and satisfaction metrics. |
 
 ---
 
-### 🏥 Hospital Emergency Room Dashboard
+# 📚 Certifications & Achievements
 
-Interactive Excel dashboard tracking patient flow, waiting time, satisfaction score and operational KPIs.
-
----
-
-### 🚖 Chicago Transportation Analytics
-
-Python & SQL project analysing trip patterns and operational insights using the Chicago TNP dataset.
-
----
-
-# Currently Learning
-
-- Advanced SQL
-- Machine Learning
-- Statistics for Data Analytics
-- Data Storytelling
-- Power BI Best Practices
+| 🎖️ Certification / Achievement | 📌 Description |
+|--------------------------------|----------------|
+| 🥇 HackerRank SQL Gold | SQL Badge |
+| 📊 Power BI Certification | Dashboard Design & Data Visualization |
+| 🧮 SQL Micro Course | SQL Fundamentals |
+| 🏢 Data Science Trainee | TCA, Gurgaon |
+| 🎖️ NCC Under Officer | Leadership & Discipline |
+| 🎤 President – Toastmasters Club | Public Speaking & Leadership |
+| 🇮🇳 Cleared NDA Written Examination | National Level Competitive Exam |
 
 ---
 
-# GitHub Activity
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sonika409&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sonika409&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonika409&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonika409&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonika409&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+---
+
+# 📊 Contribution Activity
+
 <p align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sonika409&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sonika409&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Currently Exploring
+
+```python
+class SonikaKaswan:
+
+    role = "Aspiring Data Analyst"
+
+    currently_learning = [
+        "Advanced SQL",
+        "Machine Learning",
+        "Statistics",
+        "Power BI",
+        "Data Storytelling"
+    ]
+
+    interests = [
+        "Business Intelligence",
+        "Data Visualization",
+        "Exploratory Data Analysis",
+        "Predictive Analytics"
+    ]
+
+    motto = "Turning data into meaningful business decisions."
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+> ⚠️ *This animation works after enabling a GitHub Actions workflow.*
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sonika-kaswan-72170a2a6">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say%20Hello-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_HACKERRANK_LINK">
+<img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sonika409&label=Profile%20Views&color=4FC3F7&style=for-the-badge"/>
 
 </p>
 
@@ -132,7 +199,9 @@ Python & SQL project analysing trip patterns and operational insights using the 
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sonika409&style=for-the-badge&color=0e75b6"/>
+### ⭐ Thanks for visiting my profile!
+
+*"Every dataset has a story. I enjoy discovering it and turning it into actionable insights."*
 
 </p>
 
@@ -140,6 +209,6 @@ Python & SQL project analysing trip patterns and operational insights using the 
 
 <p align="center">
 
-### Turning Data into Decisions 📊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:7B68EE&height=140&section=footer"/>
 
 </p>
