@@ -22,7 +22,7 @@
 
 ---
 
-# 📊 Data Journey
+# 🌸 Behind the Dashboard
 
 Hi! I'm **Sonika Kaswan**, a Computer Science student passionate about solving real-world business problems through data.
 
@@ -75,8 +75,8 @@ I enjoy transforming raw datasets into meaningful insights using **SQL, Python, 
 
 | 🚀 Project | 🛠 Tech Stack | 📌 Highlights |
 |------------|--------------|---------------|
-| **Aadhaar Enrollment Analytics** | Power BI, Excel | Interactive dashboard analysing state-wise and age-wise enrolment trends across India. |
-| **Chicago Transportation Analytics** | Python, SQL | Analysed trip patterns and operational insights using Chicago TNP dataset. |
+| **Aadhaar Enrollment Analytics** | Power BI, Python | Interactive dashboard analysing state-wise and age-wise enrolment trends across India. |
+| **Chicago Transportation Analytics** | Python, SQL | Analysing trip patterns and operational insights using Chicago TNP dataset. |
 | **Subscription Platform Profitability** | Python, Pandas | Identified retention issues and profitability decline through customer behaviour analysis. |
 | **Hospital Emergency Room Dashboard** | Excel | KPI dashboard tracking waiting time, patient flow and satisfaction metrics. |
 
@@ -175,16 +175,6 @@ I enjoy transforming raw datasets into meaningful insights using **SQL, Python, 
 <a href="YOUR_PORTFOLIO_LINK">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
 </a>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sonika409&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </p>
 
