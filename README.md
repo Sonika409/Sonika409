@@ -1,6 +1,8 @@
 ### Sonika Kaswan — Data Analyst
 
-`SQL` `Python` `Excel` `Power BI`
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=false&vCenter=true&width=520&lines=Sonika+Kaswan;Data+Analyst;SQL+%7C+Python+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -83,7 +85,7 @@ Full write-ups on my [portfolio](#).
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sonika409&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Sonika409/count.svg" alt="Profile Views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
