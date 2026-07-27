@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Sonika 👋</h1>
+<h1 align="center">Hi there, I'm Sonika Kaswan 👋</h1>
 
-<h3 align="center">Turning raw data into stories, one query at a time 📊</h3>
+<h3 align="center">Data Analyst | SQL · Python | Excel · Power BI</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Data+Visualization;Always+learning%2C+always+growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=Turning+data+into+decisions;5%2B+dashboards+%7C+15%2B+datasets+analysed;HackerRank+SQL+Gold+Badge" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌸 About Me
 
-Welcome to my little corner of GitHub! I'm passionate about growing in my career, learning new tech skills, and exploring the world of **data analytics**. Here, you'll find:
+Welcome to my little corner of GitHub! I'm a BTech CSE student and Data Analyst, passionate about turning raw data into clear, actionable insights. Here, you'll find:
 
 - 🚀 Projects I'm building or contributing to
-- 📚 Things I've learned while working with data and coding
-- 🐍 My journey of learning **Python**, **SQL**, and **data visualization**
+- 📚 Things I've learned while working with data and code
+- 🐍 My journey with **Python**, **SQL**, and **data visualization**
 
-Whether you're here to explore projects, learn something new, or just see how someone else is figuring things out, you're in the right place!
+A bit about my work so far — 5+ dashboards built, 15+ datasets analysed, and a deep dive into enrolment data across 36 Indian states and UTs.
 
 > Let's connect, learn, and grow together — one repo at a time. 🌱
 > You bring the curiosity, I'll bring the insights. ✨
@@ -38,6 +38,34 @@ Whether you're here to explore projects, learn something new, or just see how so
 
 ---
 
+### 💼 Featured Projects
+
+**🔹 Aadhaar Enrolment Analytics — UIDAI Data Hackathon 2026**
+`Excel` `Python` `Power BI`
+Analysed enrolment data across 36 states/UTs and 3 age groups. Found the 0–5 age group dominates enrolments, with regional exceptions in Bihar, Manipur, Sikkim, Meghalaya, and Mizoram — insights applicable to deployment and campaign planning.
+
+**🔹 Subscription Platform Profitability Analysis**
+`Python` `Pandas` `Matplotlib`
+Investigated a profit decline across 4 datasets and found the real driver was a retention crisis, not rising costs — 33% of users were one-time buyers, with none transacting more than 3 times.
+
+**🔹 Hospital ER Analysis**
+`Excel`
+Built an interactive dashboard tracking admissions, wait times, and satisfaction — surfacing that 61% of patients faced delays, with an average wait of 35.5 minutes.
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 HackerRank SQL — Gold Badge
+- 🎓 AlgoUniversity Tech Fellowship (ATF)
+- 📊 Data Science Trainee — TCA, Gurgaon
+- 📜 SQL Micro-Course & Power BI Certifications
+- 🎖️ NCC Under Officer & Member, Training and Placement Office
+- 🎤 President, Toastmasters Club — Event Anchor & Public Speaker
+- ✅ Cleared NDA (National Defence Academy) Written Exam
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -51,18 +79,11 @@ Whether you're here to explore projects, learn something new, or just see how so
 
 ---
 
-### 🌐 Socials
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-kaswan-72170a2a6)
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-kaswan-72170a2a6)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonikakashwan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 ---
 
