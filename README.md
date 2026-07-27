@@ -58,3 +58,12 @@ Whether you're here to explore projects, learn something new, or just see how so
 ---
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonika-kaswan-72170a2a6)
+
+---
+
+<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
