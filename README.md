@@ -63,7 +63,6 @@ Full write-ups on my [portfolio](#).
 | 🥇 | HackerRank SQL — Gold Badge |
 | 📊 | Power BI Certification |
 | 🧮 | SQL Micro-Course |
-| 🎓 | AlgoUniversity Tech Fellowship (ATF) |
 | 🏢 | Data Science Traineeship — TCA, Gurgaon |
 | 🎖️ | NCC Under Officer · Training & Placement Office Member |
 | 🎤 | President, Toastmasters Club — Event Anchor |
@@ -90,9 +89,3 @@ Full write-ups on my [portfolio](#).
 
 <p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
 ---
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Sonika409/count.svg" alt="Profile Views" />
-</p>
-
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos and reach out! 🌸</i></p>
